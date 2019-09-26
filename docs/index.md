@@ -2,7 +2,7 @@
 layout: tabbed-assignment
 ---
 
-<image src="http://www.blog.creativform.com/wp-content/uploads/2015/09/Handful-of-Connectors.jpg" align="right" width="50%">
+<img src="http://www.blog.creativform.com/wp-content/uploads/2015/09/Handful-of-Connectors.jpg" align="right" width="50%">
   
 # Overview
 
